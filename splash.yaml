@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#FFFFFF"               # Light mode background
+  color_dark: "#000000"          # Dark mode background
+  image: "assets/logos/splash_logo.png"          # Light mode logo
+  image_dark: "assets/logos/splash_logo.png"     # Dark mode logo (optional)
+  web: false                     # Disable web splash screen
+
+  android_12:
+    color: "#FFFFFF"             # Android 12+ light mode background
+    color_dark: "#272727"        # Android 12+ dark mode background
+    image: "assets/logos/splash_logo.png"        # Android 12+ light mode logo
+    image_dark: "assets/logos/splash_logo.png"   # Android 12+ dark mode logo
