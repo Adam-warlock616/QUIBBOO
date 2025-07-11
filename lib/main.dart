@@ -10,7 +10,6 @@ import 'forgot_password_screen.dart';
 import 'otp_verification_screen.dart';
 import 'new_password_screen.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -22,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Employee Portal',
+      title: 'Quibbo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
