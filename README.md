@@ -1,4 +1,4 @@
-# eshop
+# attendence registration
 
 A new Flutter project.
 
